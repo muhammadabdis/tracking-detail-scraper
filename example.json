@@ -1,0 +1,25 @@
+{
+    "status": {
+        "code": "060101",
+        "message": "Delivery tracking detail fetched successfully"
+    },
+    "data": {
+        "receivedBy": "PAK MURADI",
+        "histories": [
+            {
+                "description": "DELIVERED TO [PAK MURADI | 04-02-2021 10:22 | BEKASI]",
+                "createdAt": "2021-02-04T10:22:00+07:00",
+                "formatted": {
+                    "createdAt": "04 Februari 2021, 10:22 WIB"
+                }
+            },
+            {
+                "description": "SHIPMENT RECEIVED BY JNE COUNTER OFFICER AT [JAKARTA]",
+                "createdAt": "2021-02-03T20:26:00+07:00",
+                "formatted": {
+                    "createdAt": "03 Februari 2021, 20:26 WIB"
+                }
+            }
+        ]
+    }
+}
