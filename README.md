@@ -5,7 +5,7 @@ and return it's result from HTTP API.
 
 ## How to Run
 
-Clone this project to your local machine. And run this command:
+Clone this project to your local machine and run this command:
 
 ```bash
   go run .
