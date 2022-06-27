@@ -1,7 +1,7 @@
 # Tracking Detail Scraper
 
 This app idea is from my past technical interview quiz in Otten Coffee. Basically, this app scrape data from https://gist.githubusercontent.com/nubors/eecf5b8dc838d4e6cc9de9f7b5db236f/raw/d34e1823906d3ab36ccc2e687fcafedf3eacfac9/jne-awb.html
-and return it's result from HTTP API.
+and return it's result through HTTP API.
 
 ## How to Run
 
